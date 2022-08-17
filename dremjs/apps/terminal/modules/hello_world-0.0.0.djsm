@@ -1,5 +1,0 @@
-type terminal;
-name hello;
-
-output("world");
-//break;
